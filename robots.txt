@@ -1,7 +1,4 @@
 User-agent: *
-Disallow: /some-path/
-
-
 
 Sitemap: https://planideas.github.io/sitemap.xml
 Sitemap: https://planideas.github.io/hasil.xml
